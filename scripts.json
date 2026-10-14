@@ -1,0 +1,17 @@
+{
+  "autocarmine.lua": {
+    "name": "Auto Car Mine",
+    "desc": "Автоматическая работа на карьере",
+    "version": "1.2"
+  },
+  "autofish.lua": {
+    "name": "Auto Fish",
+    "desc": "Автоматическая рыбалка",
+    "version": "2.0"
+  },
+  "autofarm.lua": {
+    "name": "Auto Farm",
+    "desc": "Автоматический фарм",
+    "version": "1.5"
+  }
+}
